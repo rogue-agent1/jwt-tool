@@ -1,19 +1,11 @@
-# jwt_tool
+# jwt-tool
 
-JWT decoder/encoder — decode without verification, HMAC sign
+JWT encoder/decoder from scratch.
+
+Zero dependencies. Python 3.8+.
 
 ## Usage
 
 ```bash
 python3 jwt_tool.py --help
 ```
-
-## Features
-
-- Single file, zero dependencies
-- Python 3.8+ compatible
-- CLI interface
-
-## License
-
-MIT
