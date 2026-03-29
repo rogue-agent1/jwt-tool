@@ -1,11 +1,1 @@
-# jwt-tool
-
-JWT encoder/decoder from scratch.
-
-Zero dependencies. Python 3.8+.
-
-## Usage
-
-```bash
-python3 jwt_tool.py --help
-```
+# jwt-tool\n\nJWT token creation, decoding, and validation with HMAC-SHA256\n\n## Usage\n\n```bash\npython3 jwt_tool.py --help\n```\n\n## Features\n\n- Zero dependencies (Python 3.8+ stdlib only)\n- Single file implementation\n
